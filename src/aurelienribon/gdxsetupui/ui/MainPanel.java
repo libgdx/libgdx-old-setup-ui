@@ -101,7 +101,7 @@ public class MainPanel extends PaintedPanel {
 		HttpUtils.setReferer("http://aurelienribon-dev.com/gdx-setup-ui");
 
 		versionLabel.initAndCheck("3.0.0", "versions",
-			"https://raw.github.com/libgdx/libgdx/master/extensions/gdx-setup-ui/config/config.txt",
+			"https://raw.githubusercontent.com/libgdx/libgdx-old-setup-ui/master/config/libgdx.txt",
 			"https://github.com/AurelienRibon/gdx-setup-ui/downloads");
 
 		initUI();
